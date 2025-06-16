@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou a Isabel!</h1>
+<h1 align="center"> Oi, eu sou a Isabel!</h1>
 
 Desenvolvedora Front-End em transição de carreira, apaixonada por construir interfaces incríveis e soluções web completas.
 
@@ -13,7 +13,7 @@ Desenvolvedora Front-End em transição de carreira, apaixonada por construir in
 
 - ⚙️ Ferramentas: Figma | VSCode | Git | GitHub | PowerBI
 
-- 💌 Me conecta no [LinkedIn](https://www.linkedin.com/in/isabelgomesprado/) ou confira meus projetos no [GitHub](https://github.com/isagps)
+- 💌 Me conheça no [LinkedIn](https://www.linkedin.com/in/isabelgomesprado/) ou confira meus projetos no [GitHub](https://github.com/isagps)
 
 ---
 
