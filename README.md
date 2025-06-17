@@ -3,7 +3,7 @@
 Desenvolvedora Fullstack em transição de carreira, focada em construir soluções web completas, com interfaces modernas e backend robusto.
 
 - 🔭 Atualmente trabalhando nos projetos **NonaCozi** e **Prof Agenda**
-- 🌱 Aprendendo e me aprofundando em: **Spring Boot avançado**, **Angular 19**, **Node.js** e **UI/UX Design**
+- 🌱 Aprendendo e me aprofundando em: **Spring Boot**, **Angular 19**, **Node.js** e **UI/UX Design**
 - 💻 Tech Stack:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
