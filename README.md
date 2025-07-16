@@ -4,19 +4,34 @@ Desenvolvedora Fullstack em transição de carreira, focada em construir soluç�
 
 - 🔭 Atualmente trabalhando nos projetos **NonaCozi** e **Prof Agenda**
 - 🌱 Aprendendo e me aprofundando em: **Spring Boot**, **Angular 19**, **Node.js** e **UI/UX Design**
-- 💻 Tech Stack:
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- 
-
-- ⚙️ Ferramentas: Figma | VSCode | Git | GitHub 
-
-- 💌 Me conheça no [LinkedIn](https://www.linkedin.com/in/isabelgomesprado/) ou confira meus projetos no [GitHub](https://github.com/isagps)
 
 ---
+### 💻 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+</div>
+
+
+### ⚙️ Ferramentas:
+Figma | VSCode | Git | GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isagps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isagps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="gif divertido" />
 
 ### 🧠 Sobre mim  
 Sou apaixonada por tecnologia, design e desenvolvimento fullstack. Meu foco é criar soluções que entreguem valor real, integrando front-end moderno e backend eficiente, com atenção à experiência do usuário e qualidade do código.
@@ -24,7 +39,30 @@ Sou apaixonada por tecnologia, design e desenvolvimento fullstack. Meu foco é c
 ---
 
 ### 🚀 Projetos principais  
-- **NonaCozi**: Aplicação web fullstack que permite aos usuários buscar receitas a partir dos ingredientes disponíveis, além de possibilitar o cadastro, edição e gerenciamento intuitivo de receitas. Desenvolvida com backend em Spring Boot e frontend em Angular, focando em usabilidade, desempenho e experiência do usuário. 
-- **Prof Agenda**: Sistema web desenvolvido para otimizar a gestão de horários escolares, facilitando a organização de aulas para professores e instituições de ensino. A plataforma permite o cadastro e gerenciamento de professores, turmas e disciplinas, gerando automaticamente cronogramas otimizados, evitando conflitos de horários e melhorando a eficiência administrativa.
+
+- **NonaCozi**  
+  Aplicação web fullstack que permite aos usuários buscar receitas a partir dos ingredientes disponíveis, além de possibilitar o cadastro, edição e gerenciamento intuitivo de receitas. Desenvolvida com backend em Spring Boot e frontend em Angular, focando em usabilidade, desempenho e experiência do usuário.
+
+- **Prof Agenda**  
+  Sistema web desenvolvido para otimizar a gestão de horários escolares, facilitando a organização de aulas para professores e instituições de ensino. A plataforma permite o cadastro e gerenciamento de professores, turmas e disciplinas, gerando automaticamente cronogramas otimizados, evitando conflitos de horários e melhorando a eficiência administrativa.
 
 ---
+
+### 🌐 Redes & Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/isabelgomesprado/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:isabelgomesprado@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+---
+
+<br clear="both" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isagps/isagps/output/snake.svg" alt="Snake animation" />
+</p>
