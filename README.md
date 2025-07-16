@@ -1,38 +1,82 @@
-<h1 align="center">Oi, eu sou a Isabel!</h1>
+# 💜 Olá, eu sou a Isabel!
 
-Desenvolvedora Fullstack em transição de carreira, focada em construir soluções web completas, com interfaces modernas e backend robusto.
-
-- 🔭 Atualmente trabalhando nos projetos **NonaCozi** e **Prof Agenda**
-- 🌱 Aprendendo e me aprofundando em: **Spring Boot**, **Angular 19**, **Node.js** e **UI/UX Design**
-- 💻 Tech Stack:
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-- ⚙️ Ferramentas: Figma | VSCode | Git | GitHub 
-
-- 💌 Me conheça no [LinkedIn](https://www.linkedin.com/in/isabelgomesprado/) ou confira meus projetos no [GitHub](https://github.com/isagps)
-
----
-
-### 🧠 Sobre mim  
-Sou apaixonada por tecnologia, design e desenvolvimento fullstack. Meu foco é criar soluções que entreguem valor real, integrando front-end moderno e backend eficiente, com atenção à experiência do usuário e qualidade do código.
-
-🧩 Sou uma pessoa autista, o que me torna profissional PCD, e vejo isso como uma grande vantagem na minha carreira. Essa condição me proporciona qualidades importantes, como organização, foco apurado e uma curiosidade constante para aprender e resolver problemas. Essas características contribuem para que eu mantenha a qualidade e eficiência nos projetos que realizo, tornando-me dedicada e atenta aos detalhes.
-
-
----
-
-### 🚀 Projetos principais  
-- **NonaCozi**: Aplicação web fullstack que permite aos usuários buscar receitas a partir dos ingredientes disponíveis, além de possibilitar o cadastro, edição e gerenciamento intuitivo de receitas. Desenvolvida com backend em Spring Boot e frontend em Angular, focando em usabilidade, desempenho e experiência do usuário.  
-- **Prof Agenda**: Sistema web desenvolvido para otimizar a gestão de horários escolares, facilitando a organização de aulas para professores e instituições de ensino. A plataforma permite o cadastro e gerenciamento de professores, turmas e disciplinas, gerando automaticamente cronogramas otimizados, evitando conflitos de horários e melhorando a eficiência administrativa.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isagps/isagps/output/snake.svg" alt="Snake animation" />
+<p align="left">
+ Desenvolvedora FullStack, dedicada a construir soluções web completas, modernas e focadas na experiência do usuário.<br>
+ Tenho focado meus estudos e práticas em Java, Spring Boot, Angular e TypeScript, aplicando cada aprendizado em projetos reais para consolidar minha jornada no desenvolvimento de software.<br>
 </p>
 
+👩‍💻 Tecnóloga em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
+
+📚 Estudando também Java, Spring e boas práticas de desenvolvimento web
+
+🌱 Apaixonada por aprender novas tecnologias e criar soluções que fazem a diferença
+
+♿️ Sou autista, mas vejo essa característica como um diferencial na minha organização, foco e atenção aos detalhes
+
+
+---
+
+## 🚀 Projetos principais
+
+- 🍝 **NonaCozi**  
+  Aplicação web fullstack que permite aos usuários buscar receitas a partir dos ingredientes disponíveis, além de possibilitar o cadastro, edição e gerenciamento intuitivo de receitas. Desenvolvida com backend em Spring Boot e frontend em Angular, focando em usabilidade, desempenho e experiência do usuário.
+
+- 📖 **Prof Agenda**  
+  Sistema web para otimizar a gestão de horários escolares, facilitando a organização de aulas para professores e instituições de ensino. Permite o cadastro e gerenciamento de professores, turmas e disciplinas, gerando automaticamente cronogramas otimizados, evitando conflitos de horários e melhorando a eficiência administrativa.
+
+
+---
+
+
+## Tecnologias e ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,figma,vscode,git,github)](https://skillicons.dev)
+
+---
+
+## ⭐ GitHub Stats
+<a href="https://github.com/isagps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isagps&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isagps&layout=compact&langs_count=6&theme=radical"/>
+</a>
+
+---
+
+## Sobre mim 🧠
+
+<p>Sou formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.<br>
+Atualmente estou em transição de carreira para desenvolvimento fullstack, com foco em Java, Spring Boot no backend, e Angular com TypeScript no frontend.</p>
+
+<p>Tenho explorado também Node.js, Python e bancos de dados como MySQL e SQLite, aplicando esses conhecimentos em projetos práticos e pessoais que compõem meu portfólio.</p>
+
+<p>Acredito que aprender fazendo é o melhor caminho para crescer na tecnologia, por isso sempre busco transformar teoria em prática e construir soluções reais. 🚀</p>
+
+Vamos nos conectar? Me envie um e-mail ou me siga nas redes sociais ! 💌✨
+
+
+
+---
+
+## 🌐 Redes & Contato
+
+<p>
+  <a href="https://discordapp.com/users/isaclisa" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="35" style="margin-right: 6px;"/>
+  </a>
+  <a href="mailto:isabelgomesprado@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" style="margin-right: 6px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/isabelgomesprado/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" style="margin-right: 6px;"/>
+  </a>
+  <a href="https://github.com/isagps" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/isagps/isagps/output/snake.svg" alt="Snake animation" />
+</div>
 
