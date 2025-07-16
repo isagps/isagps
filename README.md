@@ -18,11 +18,13 @@
 
 ## 🚀 Projetos principais
 
-- 🍝 **NonaCozi**  
-  Aplicação web fullstack que permite aos usuários buscar receitas a partir dos ingredientes disponíveis, além de possibilitar o cadastro, edição e gerenciamento intuitivo de receitas. Desenvolvida com backend em Spring Boot e frontend em Angular, focando em usabilidade, desempenho e experiência do usuário.
+- 🍝 **NonaCozi** (em desenvolvimento)
+Plataforma de receitas onde usuários buscam e gerenciam receitas com base nos ingredientes disponíveis.
+🛠 Java (Spring Boot), Angular, TypeScript
 
-- 📖 **Prof Agenda**  
-  Sistema web para otimizar a gestão de horários escolares, facilitando a organização de aulas para professores e instituições de ensino. Permite o cadastro e gerenciamento de professores, turmas e disciplinas, gerando automaticamente cronogramas otimizados, evitando conflitos de horários e melhorando a eficiência administrativa.
+- 📖 **Prof Agenda** S
+Sistema para gestão de horários escolares, com cadastro de professores, turmas e disciplinas, e geração automática de cronogramas.
+🛠 Angular, TypeScript, Python (Flask), SQLite
 
 
 ---
