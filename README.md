@@ -31,8 +31,8 @@ Sou apaixonada por tecnologia, design e desenvolvimento fullstack. Meu foco é c
 
 ---
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isagps/isagps/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/isagps/isagps/output/snake.svg" alt="Snake animation" />
 </p>
+
 
